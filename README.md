@@ -2,9 +2,9 @@
 #### Lead engineer, project manager and data science advisor, experienced in evaluation and implementation of new technology solutions. Acumen includes development of ML models, digital transformation projects, technology roadmapping and product management.
 
 ### Education
-Master’s in Data Science || Harvard University
-Master’s in Business Administration|| University of Oklahoma                 
-Bachelor of Science in Petroleum engineering || University of Oklahoma
+- Master’s in Data Science || Harvard University
+- Master’s in Business Administration|| University of Oklahoma                 
+- Bachelor of Science in Petroleum engineering || University of Oklahoma
 
 ### Notable Projects
 January 2024: Delivered machine learning models to predict production uplift from oil and gas assets, leveraged linear regression, random forest and dimensionality reduction. Skills: Python, Pandas, numpy, scikit-learn, DBeaver, SQL.
