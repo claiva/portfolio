@@ -1,5 +1,5 @@
 # Claudia Molina, MDS, MBA, P. ENG
-## Lead engineer, project manager and data science advisor, experienced in evaluation and implementation of new technology solutions. Acumen includes development of ML models, digital transformation projects, technology roadmapping and product management.
+#### Lead engineer, project manager and data science advisor, experienced in evaluation and implementation of new technology solutions. Acumen includes development of ML models, digital transformation projects, technology roadmapping and product management.
 
 ### Education
 Master’s in Data Science || Harvard University
