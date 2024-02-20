@@ -3,15 +3,15 @@
 
 ### Education
 - Master’s in Data Science || Harvard University
-- Master’s in Business Administration|| University of Oklahoma                 
-- Bachelor of Science in Petroleum engineering || University of Oklahoma
+- Master’s in Business Administration || University of Oklahoma                 
+- Bachelor of Science in Petroleum Engineering || University of Oklahoma
 
 ### Notable Projects
-January 2024: Delivered machine learning models to predict production uplift from oil and gas assets, leveraged linear regression, random forest and dimensionality reduction. Skills: Python, Pandas, numpy, scikit-learn, DBeaver, SQL.
+January 2024: Delivered machine learning models to predict production uplift from oil and gas assets, leveraged linear regression, random forest and dimensionality reduction. Skills: Python, Pandas, numpy, scikit-learn, SQL.
 
 Harvard iLab, July 2023 - Present: Serve as full stack software engineer/development lead for a remote team of 4. Developed and launched B2C iOS application, including hashing and encryption of sensitive user data. Tools/skills: MongoDB, object-oriented programing (Python, swift),  Xcode, Jira, Github, DevOps, CI/CD protocols (Jira, Travis CI, Git),  data management  (AWS, MongoDB), API microservices, and software engineering principles.
 
-June 2023 - Delivered integrated data science and reduced physics model, improving well performance predictions  by +5%. Leveraged XGBoost and GAMs to improve predictive capabilities of legacy MVR models. Skills: Machine learning algorithms, MLOps,  JMP, Python, Apache Spark, SQL, agile principles, Azure, automated testing, CI/CD tools and infrastructure as code.
+June 2023 - Delivered integrated data science and reduced physics model, improving well performance predictions by +5%. Leveraged XGBoost and GAMs to improve predictive capabilities of legacy MVR models. Skills: 3D numerical modeling, machine learning algorithms, MLOps,  JMP, Python, Apache Spark, SQL, agile principles, Azure, automated testing, CI/CD tools and infrastructure as code.
 
 Jan 2021 - Feb 2023 Advanced corporate data management strategy in collaboration with data governance team, including evaluation of data management systems for various data structures, big data, data security, privacy regulations and cybersecurity.
 
@@ -29,19 +29,16 @@ Develop and deploy machine learning models to identify production optimization o
 - Delivered optimized linear regression and random forest models for prediction of well performance. Model successfully identified 56 production uplift opportunities, leverging  Python, SQL, and ML libraries (e.g; Scipy, Numpy, Scikit-learn, Pandas)
 - Progressing transformation of existing prototype code into scalable, production-grade software, including testing, deploying and maintaining machine learning code across the full software development lifecycle. 
 - Drive best demonstrated practices in applied ML and software engineering. Share learnings with team members about ML developments and business applications.
-- Automate production reporting 
+- Deliver automation of production reporting workflow, reducing labor time by 50%.
 
 ### Engineering Advisor, Chief Engineering at Ovintiv (OVV, YSE)                                                                                                         2019-2023
 
 Provide technical leadership for evaluation, development and adoption of high-value business solutions. Set strategic direction of digital transformation projects, including technology roadmap, project development, management and scalability. 
-Serve as engineering advisor, identify industry trends, products and technical solutions collaborating as part of a team in complex projects. 
  - Led adoption of 2 enterprise scale data products including cloud based digital solutions and associated APIs.
  - Delivered evaluations of at least 5 new joint industry projects.
- - Lead integration of data analytics and 3D modeling approaches,   Delivered physics constrained machine learning model, improving decision-making process and predictivity of legacy model by +5pct.
+ - Lead integration of data analytics and 3D modeling approaches, delivered physics constrained machine learning model, improving decision-making process and predictivity of legacy model by +5pct.
  - Participate in knowledge sharing industry events as panelist, speaker and published author.
  - Communicate project and technology updates across the organization. Serve as knowledge transfer agent on the topics of engineering,  ML algorithms and techniques.
- - Peer-review code contributions and lead the development of reusable frameworks.
- - Delivered scalable development to deployment of  XGBoost and GAMs to improve predictive capabilities of legacy MVR model
  - Mentor early career engineers, advance corporate engineering training programs and deliver bootcamp training for new hires.
 
  
